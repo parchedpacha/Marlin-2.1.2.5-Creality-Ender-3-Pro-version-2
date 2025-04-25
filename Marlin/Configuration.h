@@ -447,7 +447,7 @@
 //============================= Thermal Settings ============================
 //===========================================================================
 // @section temperature
-
+// still need to adjust conv_adv.h
 /**
  * Temperature Sensors:
  *
